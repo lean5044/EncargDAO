@@ -6,4 +6,4 @@ Proyecto de Gobernanza para la hackaton de ETHKipu.
 
 - Mirta Longhitano
 - Leandro
-
+- Gabriel Rodriguez
