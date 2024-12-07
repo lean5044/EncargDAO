@@ -452,6 +452,19 @@
 				"type": "function"
 			},
 			{
+				"inputs": [],
+				"name": "totalSupply",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
 				"inputs": [
 					{
 						"internalType": "address",
@@ -608,7 +621,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Eliseo.sol": "EliseoNFT"
+			"EliseoNFT.sol": "EliseoNFT"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -734,12 +747,12 @@
 				"dweb:/ipfs/QmVUSvooZKEdEdap619tcJjTLcAuH6QBdZqAzWwnAXZAWJ"
 			]
 		},
-		"Eliseo.sol": {
-			"keccak256": "0x9242bf6e865e7abe395a1fd3708f671796eff1ccc901c67437842dc51789add9",
+		"EliseoNFT.sol": {
+			"keccak256": "0x27aa126a34552ea21823f20117aa428fcfc5ed6ddc87f905e3a0b7ef924636e2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b9f86248eee1c1807472fec30d17ba85d6f2e4592c5c186f786469b577d1a3d2",
-				"dweb:/ipfs/QmUvCmjgbLpVEXvR8aAXTRX2AVvHgNHVgkBPeCmFHAT4T7"
+				"bzz-raw://744155e6e8e9654fe438c65a23a3a3ceb3cc01da24fffe42042444ec3a4b01c9",
+				"dweb:/ipfs/QmR9ixRb9ZN84fayhuD6Y1vAUwmrwMFViQzU73nficBp4K"
 			]
 		}
 	},
